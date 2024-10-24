@@ -1,14 +1,15 @@
 <?xml version="1.0"?>
 <info>
-	<id>app-skeleton-python</id>
 	<name>App Skeleton</name>
-	<summary>Nextcloud Python Application Skeleton</summary>
+	<id>easy_plan</id>
+	<name>EasyPlan</name>
+	<summary>Nextcloud Shiftscheduler-tool with Python3 Backend</summary>
 	<description>
-	<![CDATA[Simplest skeleton of the Nextcloud application written in python]]>
+	<![CDATA[[Shiftscheduler-tool for Nextcloud written in python3]]>
 	</description>
 	<version>2.0.0</version>
 	<licence>MIT</licence>
-	<author mail="bigcat88@icloud.com" homepage="https://github.com/bigcat88">Alexander Piskun</author>
+	<author mail="lasch.yannicfabio@gmail.com" homepage="https://github.com/YannicFabio/">Alexander Piskun</author>
 	<namespace>PyAppV2_skeleton</namespace>
 	<category>tools</category>
 	<website>https://github.com/nextcloud/app-skeleton-python</website>

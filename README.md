@@ -1,7 +1,7 @@
-# Nextcloud Python App Skeleton repository
+"# EasyPlan - Nextcloud Shiftplaner" 
+Nextcloud ShftPlaner with Python3-backend. 
+Created with Fokus on basic and simple usable wizzard-like Shiftschedule, User and Group management.
 
-To make it easier to create new Nextcloud applications using Python,
-you can immediately either clone this repository or simply copy it and use it as the basis for your future application.
 
 By default, linters, pre-commit and other useful little things are configured here.
-"# EasyPlan" 
+
