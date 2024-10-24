@@ -1,6 +1,5 @@
 <?xml version="1.0"?>
 <info>
-	<name>App Skeleton</name>
 	<id>easy_plan</id>
 	<name>EasyPlan</name>
 	<summary>Nextcloud Shiftscheduler-tool with Python3 Backend</summary>
